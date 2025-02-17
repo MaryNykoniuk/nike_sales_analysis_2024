@@ -14,6 +14,7 @@ The project includes **data analysis and visualization** to explore:
 Additionally, an **interactive Tableau dashboard** was created to visualize the findings.
 
 🔗 **Tableau Dashboard:** [Nike Sales Breakdown 2024](https://public.tableau.com/app/profile/mariia.nykoniuk/viz/NikeSalesBreakdown2024/Dashboard1)
+![Bakery Sales Dashboard](nike_sales_analysis_dashboard.png)
 
 ---
 ## 📊 Key Insights
